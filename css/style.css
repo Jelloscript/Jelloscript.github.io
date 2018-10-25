@@ -84,7 +84,7 @@
 /* 1. TEMPLATE BACKGROUNDS */
 /* 1.1. home IMG BACKGROUND */
 .section-bg-home {
-background-image: url(../img/background/car_wrap_subaru_wrxi_1.jpg);
+background-image: url(../img/background/car_wrap_bmw_m3_gradient_1.jpg);
 }
 
 
@@ -124,15 +124,18 @@ background-image: url(../img/works/car_wrap_mclaren_720s_1.jpg);
 }
 
 .works-page-img-carousel-item-3 {	
-background-image: url(../img/works/car_wrap_subaru_sti_livery_2.jpg);
+background-image: url(../img/works/car_wrap_porsche_cayman_gts_gt3_livery_1.jpg);
 }
 
 .works-page-img-carousel-item-4 {		
-background-image: url(../img/works/works-page-img-carousel-item-4.jpg);
+background-image: url(../img/works/car_wrap_lamborghini_aventador_redbull_2.jpg);
 }
 
 .works-page-img-carousel-item-5 {		
-background-image: url(../img/works/works-page-img-carousel-item-5.jpg);
+background-image: url(../img/works/car_wrap_lamborghini_huracan_mr_pink_2.jpg);
+}
+.works-page-img-carousel-item-6 {		
+background-image: url(../img/works/car_wrap_subaru_sti_livery_widebody_2.jpg);
 }
 
 
@@ -977,7 +980,7 @@ z-index: 200;
 content: "";
 display: block;
 width: 57px;
-height: 34px;
+height: 57px;
 line-height: 34px;
 -webkit-transition: color 300ms cubic-bezier(0.77, 0, 0.175, 1);
    -moz-transition: color 300ms cubic-bezier(0.77, 0, 0.175, 1);
@@ -2714,9 +2717,9 @@ top: 0;
     -ms-animation: teardrop 6s ease-out infinite;
      -o-animation: teardrop 6s ease-out infinite;
         animation: teardrop 6s ease-out infinite;
-background: -webkit-linear-gradient(top, rgba(255, 38, 74, 0), rgba(0, 215, 7, 1));
-background: -ms-linear-gradient(top, rgba(255, 38, 74, 0), rgba(0, 215, 7, 1));
-background: linear-gradient(top, rgba(255, 38, 74, 0), rgba(0, 215, 7, 1));
+background: -webkit-linear-gradient(top, rgba(255, 238, 74, 0), rgba(255, 237, 0, 1));
+background: -ms-linear-gradient(top, rgba(255, 38, 74, 0), rgba(255, 237, 0, 1));
+background: linear-gradient(top, rgba(255, 38, 74, 0), rgba(255, 237, 0, 1));
 }
 
 .running-teardrop:last-child::before {
@@ -2726,9 +2729,9 @@ bottom: 0;
     -ms-animation: teardrop-reverse 6s ease-out infinite;
      -o-animation: teardrop-reverse 6s ease-out infinite;
         animation: teardrop-reverse 6s ease-out infinite;
-background: -webkit-linear-gradient(top, rgba(0, 215, 7, 1), rgba(255, 38, 74, 0));
-background: -ms-linear-gradient(top, rgba(0, 215, 7, 1), rgba(255, 38, 74, 0));
-background: linear-gradient(top, rgba(0, 215, 7, 1), rgba(255, 38, 74, 0));
+background: -webkit-linear-gradient(top, rgba(255, 237, 0, 1), rgba(255, 38, 74, 0));
+background: -ms-linear-gradient(top, rgba(255, 237, 0, 1), rgba(255, 38, 74, 0));
+background: linear-gradient(top, rgba(255, 237, 0, 1), rgba(255, 38, 74, 0));
 }
 
 @-webkit-keyframes teardrop {

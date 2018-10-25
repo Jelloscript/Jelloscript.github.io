@@ -3,8 +3,8 @@
   
   ---
   
-  Template Name: Rexbel - Photography Portfolio Template
-  Author:  ex-nihilo
+  Name: cSquared
+  Author:  exJello
   Version: 1.2
 */
 
@@ -149,6 +149,30 @@ $(function() {
             }
         }
     });
+	$("#works-page-img-carousel2").owlCarousel({
+        loop: false,
+        center: false,
+        items: 3,
+        margin: 0,
+        autoplay: false,
+        autoplaySpeed: 1000,
+        autoplayTimeout: 5000,
+        smartSpeed: 450,
+        nav: true,
+        navText: ["<i class='owl-custom ion-chevron-left'></i>", "<i class='owl-custom ion-chevron-right'></i>"],
+        responsive: {
+            0: {
+                items: 1
+            },
+            768: {
+                items: 2
+            },
+			
+            1170: {
+                items: 3
+            }
+        }
+    });
 	
     // 5. magnificPopup
 	$(".popup-photo").magnificPopup({
@@ -177,10 +201,10 @@ $(function() {
 	
     // 7. fullPage
     $("#fullpage").fullpage({
-        anchors: ["home", "about", "services", "works", "contact"],
+        anchors: ["home", "works", "works2", "contact"],
         navigation: true,
         navigationPosition: "right",
-        navigationTooltips: ["Home", "About", "Services", "Works", "Contact"],
+        navigationTooltips: ["Home", "Works", "Works2", "Contact"],
         responsiveWidth: 1024,
         autoScrolling: true,
         scrollBar: false,

@@ -278,7 +278,7 @@ $(function() {
     $("<div class='running-teardrop'></div>").duplicate(4).appendTo(".horizontal-stripes-sections .all-bg-wapper");
 	
     // 12. social icons launcher
-    $(".social-icons-launcher").on("click", function() {
+/*     $(".social-icons-launcher").on("click", function() {
         if ($(".social-icons-wrapper").hasClass("social-icons-wrapper-reveal-show")) {
             $(".social-icons-wrapper").removeClass("social-icons-wrapper-reveal-show").addClass("social-icons-wrapper-reveal-hide");
 			$(".welcome-message").removeClass("welcome-message-reveal-hide").addClass("welcome-message-reveal-show");
@@ -286,7 +286,7 @@ $(function() {
             $(".social-icons-wrapper").removeClass("social-icons-wrapper-reveal-hide").addClass("social-icons-wrapper-reveal-show");
 			$(".welcome-message").addClass("welcome-message-reveal-hide").removeClass("welcome-message-reveal-show");
         }
-    });
+    }); */
     // 12.1. social icons launcher additional CLOSER
     $(".navigation-icon, .logo").on("click", function() {
         $(".social-icons-wrapper").removeClass("social-icons-wrapper-reveal-show").addClass("social-icons-wrapper-reveal-hide");

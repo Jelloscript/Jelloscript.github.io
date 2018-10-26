@@ -2688,7 +2688,7 @@ float: left;
 -webkit-box-sizing: border-box;
    -moz-box-sizing: border-box;
         box-sizing: border-box;
-border-right: 1px solid rgba(255, 255, 255, .15);
+border-right: 1px solid rgba(255, 255, 255, .0);
 }
 
 .running-teardrop::before {

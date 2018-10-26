@@ -735,7 +735,7 @@ padding: 0 0 0 130px;
 }
 
 h2.section-subheading.section-subheading-light {
-color: #ff264a;
+color: #5a5a5a;
 }
 
 h2.section-subheading span {
@@ -774,7 +774,7 @@ border-top: 1px solid #000;
 }
 
 h2.section-subheading-light span:before {
-border-top: 1px solid #ff264a;
+border-top: 1px solid #5a5a5a;
 }
 
 h2.section-subheading.section-subheading-all {
@@ -3489,7 +3489,7 @@ font-weight: 700;
 text-transform: uppercase;
 text-decoration: none;
 letter-spacing: 0.10em;
-color: #ff264a;
+color: #c2bb1a;
 background: none;
 padding: 10px 40px 0 40px;
 margin-top: 10px;
@@ -3536,7 +3536,7 @@ width: 15px;
 height: 38px;
 top: -2px;
 left: -6px;
-border: 1px solid #ff264a;
+border: 1px solid #c2bb1a;
 border-right: none;
 -webkit-transition: all 0.5s linear;
    -moz-transition: all 0.5s linear;
@@ -3574,7 +3574,7 @@ width: 15px;
 height: 38px;
 top: -2px;
 right: -6px;
-border: 1px solid #ff264a;
+border: 1px solid #c2bb1a;
 border-left: none;
 -webkit-transition: all 0.5s linear;
    -moz-transition: all 0.5s linear;

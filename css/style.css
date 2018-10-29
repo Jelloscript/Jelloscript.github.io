@@ -116,19 +116,19 @@ background-image: url(../img/services/services-bg-3.jpg);
 
 /* 1.4. works IMG carousel IMG BACKGROUND */
 .works-page-img-carousel-item-1 {		
-background-image: url(../img/works/car_wrap_porsche_gt4_martini_gold_2.jpg);
+background-image: url(../img/works/car_wrap_bmw_i8_liberty_walk_wide_body_military_2.jpg);
 }
 
 .works-page-img-carousel-item-2 {		
-background-image: url(../img/works/car_wrap_mercedes_c63s_camo_1.jpg);
-}
-
-.works-page-img-carousel-item-3 {	
 background-image: url(../img/works/car_wrap_lamborghini_aventador_bape_hype_1.jpg);
 }
 
+.works-page-img-carousel-item-3 {	
+background-image: url(../img/works/car_wrap_subaru_wrxi_1.jpg);
+}
+
 .works-page-img-carousel-item-4 {		
-background-image: url(../img/works/car_wrap_mclaren_720s_1.jpg);
+background-image: url(../img/works/car_wrap_mercedes_amg_gt_darwinpro_1.jpg);
 }
 
 .works-page-img-carousel-item-5 {		
@@ -136,15 +136,15 @@ background-image: url(../img/works/car_wrap_porsche_cayman_gts_gt3_livery_1.jpg)
 }
 
 .works-page-img-carousel-item-6 {		
-background-image: url(../img/works/car_wrap_polaris_slingshot_gold_carbon_fiber_1.jpg);
+background-image: url(../img/works/car_wrap_porsche_gt4_martini_gold_2.jpg);
 }
 
 .works-page-img-carousel-item-7 {		
-background-image: url(../img/works/car_wrap_lamborghini_huracan_mr_pink_2.jpg);
+background-image: url(../img/works/car_wrap_mclaren_720s_1.jpg);
 }
 
 .works-page-img-carousel-item-8 {		
-background-image: url(../img/works/car_wrap_mercedes_amg_gt_darwinpro_1.jpg);
+background-image: url(../img/works/car_wrap_subaru_sti_livery_widebody_2.jpg);
 }
 
 .works-page-img-carousel-item-9 {		
@@ -152,7 +152,7 @@ background-image: url(../img/works/car_wrap_audi_r8_gold_chrome_dj_getter_2.jpg)
 }
 
 .works-page-img-carousel-item-10 {		
-background-image: url(../img/works/car_wrap_bmw_i8_off_white_caution_2.jpg);
+background-image: url(../img/works/car_wrap_lamborghini_huracan_mr_pink_2.jpg);
 }
 
 .works-page-img-carousel-item-11{		

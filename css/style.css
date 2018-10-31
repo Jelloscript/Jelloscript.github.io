@@ -92,6 +92,9 @@ background-image: url(../img/background/car_wrap_bmw_m3_gradient_1.jpg);
 .about-bg {
 background-image: url(../img/about/about-bg.jpg);
 }
+.about-me{
+background-image: url(../img/about/crystal_chau_graphic_design_4.jpg);	
+}
 
 @media only screen and (max-width: 980px) {
   .about-bg {
@@ -120,11 +123,11 @@ background-image: url(../img/works/car_wrap_bmw_i8_liberty_walk_wide_body_milita
 }
 
 .works-page-img-carousel-item-2 {		
-background-image: url(../img/works/car_wrap_lamborghini_aventador_bape_hype_1.jpg);
+background-image: url(../img/works/car_wrap_lamborghini_aventador_libertywalk_widebody_tiffany_blue_1.jpg);
 }
 
 .works-page-img-carousel-item-3 {	
-background-image: url(../img/works/car_wrap_subaru_wrxi_1.jpg);
+background-image: url(../img/works/car_wrap_subaru_sti_livery_widebody_2.jpg);
 }
 
 .works-page-img-carousel-item-4 {		
@@ -144,7 +147,7 @@ background-image: url(../img/works/car_wrap_mclaren_720s_1.jpg);
 }
 
 .works-page-img-carousel-item-8 {		
-background-image: url(../img/works/car_wrap_subaru_sti_livery_widebody_2.jpg);
+background-image: url(../img/works/car_wrap_lamborghini_aventador_bape_hype_1.jpg);
 }
 
 .works-page-img-carousel-item-9 {		
@@ -1940,12 +1943,24 @@ background-position: center center;
      -o-background-size: cover;
         background-size: cover;
 }
-
+.about-me {
+height: 30vh;
+background-repeat: no-repeat;
+background-position: center center;
+-webkit-background-size: cover;
+   -moz-background-size: cover;
+    -ms-background-size: cover;
+     -o-background-size: cover;
+        background-size: cover;
+}
 @media only screen and (max-width: 640px) {
   .about-bg,
   .services-bg,
   .contact-bg {
     min-height: 350px;
+  }
+  .contact-me{
+	  min-height:250px;
   }
 }
 
